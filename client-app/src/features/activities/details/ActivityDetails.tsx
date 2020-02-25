@@ -39,7 +39,6 @@ export const ActivityDetails: React.FC<RouteComponentProps<DetailsProps>> = ({ma
       <GridColumn width='6'>
         <ActivityDetailedSidebar/>
       </GridColumn>
-
     </Grid>
   );
 };
